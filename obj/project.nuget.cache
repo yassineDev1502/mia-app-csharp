@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0DTqH4g6FgM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\y.elkharmoudi.cons\\Desktop\\MiaAppCsharp\\MiaAppCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y.elkharmoudi.cons\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\y.elkharmoudi.cons\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

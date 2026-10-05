@@ -1,0 +1,6 @@
+@MiaAppCsharp_HostAddress = http://localhost:5123
+
+GET {{MiaAppCsharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
