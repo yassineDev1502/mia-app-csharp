@@ -40,10 +40,12 @@ jobs:
         username: ${{ github.actor }}
         password: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Costruisci e Invia l'immagine Docker
+        - name: Costruisci e Invia l'immagine Docker
       uses: docker/build-push-action@v5
       with:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ghcr.io/${{ github.repository_owner }}/miaappcsharp:latest
+        # Scrivi il tuo nome utente interamente in MINUSCOLO qui sotto:
+        tags: ghcr.io/yassinedev1502/miaappcsharp:latest
+
